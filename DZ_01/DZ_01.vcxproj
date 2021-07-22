@@ -143,6 +143,7 @@
     <ClCompile Include="lesson_2.cpp" />
     <ClCompile Include="lesson_3.cpp" />
     <ClCompile Include="lesson_4.cpp" />
+    <ClCompile Include="lesson_5.cpp" />
     <ClCompile Include="test_module.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -150,6 +151,7 @@
     <ClInclude Include="lesson_2.h" />
     <ClInclude Include="lesson_3.h" />
     <ClInclude Include="lesson_4.h" />
+    <ClInclude Include="lesson_5.h" />
     <ClInclude Include="test_module.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
